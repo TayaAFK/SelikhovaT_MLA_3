@@ -1,0 +1,1 @@
+/home/taisiya/labs/lab3/best_model_dir/model/
